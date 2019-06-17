@@ -1,0 +1,20 @@
+{
+    "name": "premiere-tvhbo/euphoria-season-1-episode-1-full",
+    "description": "Watch Euphoria Season 1 Episode 1 Online for Free Full Putlocker S01E01 WATCH FULL EPISODES NOW (CLICK LINK BELOW TO WATCHING)",
+	"keywords": ["Euphoria Season 1 Episode 1 Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/P9bniy6ams",
+            "homepage": "https://t.co/P9bniy6ams",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
